@@ -5,7 +5,7 @@ Welcome to the official organization profile for **AnimeTV-Fork / AnimeTV Commun
 ---
 
 <p align="center">
-  <img src="https://github.com/AnimeTV-Fork/AnimeTV/blob/main" />
+  <img src="https://raw.githubusercontent.com/AnimeTV-Fork/AnimeTV/main/tools/logo-design/animetv-logo/animetv-logo-brand.png?token=GHSAT0AAAAAAEAUJIPK2AAKZLGE3EYK26VI2SMU2UQ" />
 </p>
 
 <p align="center">
