@@ -5,15 +5,14 @@ Welcome to the official organization profile for **AnimeTV-Fork / AnimeTV Commun
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amarullz/AnimeTV/main/tools/logo-design/animetv-logo/animetv-logo-brand.png" alt="AnimeTV Brand Logo" width="600" />
+  <img src="https://raw.githubusercontent.com/AnimeTV-Fork/AnimeTV/main/tools/logo-design/animetv-logo/animetv-logo-brand.png" alt="AnimeTV Brand Logo" width="600" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/amarullz/AnimeTV/releases"><img src="https://img.shields.io/github/v/release/amarullz/AnimeTV?logo=github&label=Stable%20Release&color=007acc" alt="Stable Release" /></a>
-  <a href="https://amarullz.com/animetv-nightly/"><img src="https://img.shields.io/badge/Nightly%20Release-Active-orange?logo=amp&logoColor=fff" alt="Nightly Release" /></a>
+  <a href="https://github.com/AnimeTV-Fork/AnimeTV/releases"><img src="https://img.shields.io/github/v/release/AnimeTV-Fork/AnimeTV?logo=github&label=Stable%20Release&color=007acc" alt="Stable Release" /></a>
+  <a href="https://github.com/AnimeTV-Fork/AnimeTV"><img src="https://img.shields.io/badge/Nightly%20Release-Active-orange?logo=amp&logoColor=fff" alt="Nightly Release" /></a>
   <a href="https://discord.gg/VGtGtRedGR"><img src="https://img.shields.io/discord/1199444562670792714?style=flat&labelColor=7289da&color=2c2f33&label=Discord&logo=discord&logoColor=ffffff" alt="Discord Support" /></a>
-  <a href="https://github.com/amarullz/AnimeTV/blob/main/LICENSE"><img src="https://img.shields.io/github/license/amarullz/AnimeTV?color=green&label=License" alt="License" /></a>
-  <a href="https://paypal.me/amarullz"><img src="https://img.shields.io/badge/Donate-PayPal-blue?logo=paypal" alt="Donate" /></a>
+  <a href="https://github.com/AnimeTV-Fork/AnimeTV/blob/main/LICENSE"><img src="https://img.shields.io/github/license/AnimeTV-Fork/AnimeTV?color=green&label=License" alt="License" /></a>
 </p>
 
 ---
@@ -57,7 +56,6 @@ core/ (Shared Primitives) ──> domain/ (Business Rules) ──> data/ (Infras
 
 We believe in a transparent, collaborative, trust-based model for community maintenance.
 
-*   **Founder & Owner:** [@k-nacion](https://github.com/k-nacion) - Directs long-term organization goals and retains oversight.
 *   **Maintainers:** Manage code quality, architecture reviews, and automated release cycles.
 *   **Contributors:** Community developers making features, translations, and scrapers.
 
@@ -70,8 +68,8 @@ We maintain strict coding guidelines (using Prettier, ESLint, and Vitest) to ens
 
 Want to download the application for your device?
 
-*   **Stable Release APK:** Download from the [Official Portal](https://animetv.amarullz.com/apk) or use Fire TV Downloader Code: **`601972`**
-*   **Nightly Release APK:** Grab the latest test builds from [Nightly Portal](https://animetv.amarullz.com/nightly) or use Fire TV Downloader Code: **`196130`**
+*   **Stable Release APK:** Download from the [Releases page](https://github.com/AnimeTV-Fork/AnimeTV/releases)
+*   **Nightly Release APK:** Grab the latest test builds from the [Nightly builds](https://github.com/AnimeTV-Fork/AnimeTV)
 *   **Desktop Versions:** Electron-based installers for Windows, Linux, and macOS are available under the releases tab of the respective repositories.
 
 ---
